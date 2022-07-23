@@ -1,0 +1,14 @@
+{
+  "pins" : [
+    {
+      "identity" : "toastui",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/quanshousio/ToastUI.git",
+      "state" : {
+        "branch" : "main",
+        "revision" : "1828801ea49e2ab900ca5e6bb18245312fda66a2"
+      }
+    }
+  ],
+  "version" : 2
+}
